@@ -20,3 +20,14 @@
     height: 150px;
     flex-wrap: wrap;
 }
+.justify-center {
+    justify-content: center;
+}
+.align-start {
+    height: 400px;
+    align-items: flex-start;
+}
+.content-space-between {
+    height: 400px;
+    align-content: space-between;
+}
