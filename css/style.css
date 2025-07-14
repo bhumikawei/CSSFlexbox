@@ -31,3 +31,6 @@
     height: 400px;
     align-content: space-between;
 }
+.order-2 {
+    order: 2;
+}
