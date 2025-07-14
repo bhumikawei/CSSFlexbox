@@ -1,0 +1,18 @@
+.flex-container {
+    display: flex;
+    border: 2px dashed black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.flex-item {
+    background-color: rgb(198, 65, 87);
+    border: 2px solid black;
+    color: beige;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.direction-column {
+    flex-direction: column;
+}
