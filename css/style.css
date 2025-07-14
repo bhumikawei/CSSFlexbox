@@ -40,3 +40,13 @@
 .shrink-2 {
     flex-shrink: 2;
 }
+.basis-100 {
+    flex-basis: 100px;
+}
+.self-end {
+    align-self: flex-end;
+}
+
+.flex-shorthand {
+    flex: 0 0 50%;
+}
