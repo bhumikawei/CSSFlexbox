@@ -34,3 +34,9 @@
 .order-2 {
     order: 2;
 }
+.grow-2 {
+    flex-grow: 2;
+}
+.shrink-2 {
+    flex-shrink: 2;
+}
