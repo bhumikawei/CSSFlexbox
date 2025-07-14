@@ -16,3 +16,7 @@
 .direction-column {
     flex-direction: column;
 }
+.flex-wrap {
+    height: 150px;
+    flex-wrap: wrap;
+}
